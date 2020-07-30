@@ -19,8 +19,10 @@ module.exports = {
           '/Footer/',
           '/Layout/',
           '/FeeCalculator/',
+          '/AuthenticationOptions/',
           '/BaseAddress/',
-          '/TokenService/',
+          '/KeycloakService/',
+          '/TokenService(Deprecated)/',
           '/Signin/',
           '/Signout/',
         ]
